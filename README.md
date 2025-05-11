@@ -25,8 +25,9 @@ Project team :
 For additional features we chose to add:
   1. LCD screen that displays name of nearest hall (writing our own LCD Drivers).
   2. SD card to store google maps image of the university satelite image (map) and store images of the halls.
-  3. TFT touch screen that draws in real time the tiva c's coordinates after it draws a map of the university.
-  4. With the use of the touch screen we made it so that if you click on the hall it would display an image of it.
-  5. Buzzer that beeps whenever the closest hall is changed.
-  6. Power bank supply as to be portable and not require connection to a laptop.
-  7. UART communication between Arduino and Tiva C as the Tiva C sends longitude and Latitude to Arduino.
+  3. TFT touch screen that draws a map of the university.
+  4. The TFT screen displays in real time the tiva c's coordinates on the drawn map.
+  5. With the use of the touch screen we made it so that if you click on the hall it would display an image of it.
+  6. Buzzer that beeps whenever the closest hall is changed.
+  7. Power bank supply as to be portable and not require connection to a laptop.
+  8. UART communication between Arduino and Tiva C as the Tiva C sends longitude and Latitude to Arduino.
