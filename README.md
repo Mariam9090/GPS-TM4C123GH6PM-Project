@@ -14,13 +14,13 @@ Functional Requirements:
   3. Periodically update the displayed location information.
 
 Project team : 
-  - Hana walaa    2200653
-  - Hoor Wael     2200298
-  - Mariam Amr    2200704
-  - Alaa Abdel    2200498
-  - Neama Esam    2200371
-  - Miran Mohamed 2200604
-  - Nour Ali      2200292
+  - Hana walaa        2200653
+  - Hoor Wael         2200298
+  - Mariam Amr        2200704
+  - Alaa AbdelHakeem  2200498
+  - Neama Esam        2200371
+  - Miran Mohamed     2200604
+  - Nour Ali          2200292
 
 For additional features we chose to add:
   1. LCD screen that displays name of nearest hall (writing our own LCD Drivers).
